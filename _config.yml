@@ -1,0 +1,11 @@
+# Site settings
+title: Aurelien's Experience
+email: aurel427@gmail.com
+description: Professional portfolio
+baseurl: ""
+url: "http://aurelien-ldp.github.io" # the base hostname & protocol for your site
+twitter_username: aurel2733
+github_username:  aurelien-ldp
+
+# Build settings
+markdown: kramdown

@@ -26,6 +26,7 @@ C Language:
 * Inter-processus communication (with and without network)
 * Memory management
 * Network communication library
+* Neural Network programming with FANN library
 
 C++ Language:
 

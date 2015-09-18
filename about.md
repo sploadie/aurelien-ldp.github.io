@@ -8,8 +8,8 @@ permalink: /about/
 My name is Aurelien Louis Dit Picard, I study computer science and development at Epitech.
 
 ### What I do:
-I have been developing desktop applications for more than 3 years. I study and I am experienced in C and C++.
-I love to code in Ruby, especially for making web application with Ruby On Rails.
+I have been developing desktop applications for over 3 years. I profess great experience with C and C++, both in my studies and in a professional setting.
+I love to code in Ruby, and never more than when creating web applications with Ruby on Rails.
 
 ### Environment
 - Linux
@@ -17,13 +17,13 @@ I love to code in Ruby, especially for making web application with Ruby On Rails
 - Windows
 
 ### Desktop
-Development of applications and utilities for unix based system
+Development of applications and utilities for Unix based system
 
 C Language:
 
 * Parsing
 * Algorithm
-* Inter-processus communication (with and without network)
+* Inter-process communication (through and without a network)
 * Memory management
 * Network communication library
 * Neural Network programming with FANN library
@@ -31,10 +31,10 @@ C Language:
 C++ Language:
 
 * Object Oriented Programming
-* Conception of a Snake-like game in a group of 3 students
+* Conception of a Snake-like game with a 3-man team
 * Graphic Libraries (SDL, OpenGL)
-* Dynamic Libraries, interfaces, change library during the process (dynamic open)
-* Bomberman-like game with 3D graphics in a group of 6 students
+* Dynamic Libraries, interfaces, library modification during run-time (dynamic open)
+* Bomberman-like game with 3D graphics with a group of 6 students
 
 Python:
 
@@ -46,7 +46,7 @@ x86_64 Assembly:
 
 * Reverse Engineering
 * Hacking
-* Recode a part of the C library
+* Recoded a section of the C library
 
 ### Mobile
 Objective-C Language and Apple Libraries (Cocoa Touch):
@@ -56,11 +56,11 @@ Objective-C Language and Apple Libraries (Cocoa Touch):
 ### Web
 Ruby and Ruby On Rails framework:
 
-* Development of websites. *I am currently developing a big web application*
+* Frontend and backend web development. *I am currently developing a big web application*
 
 HTML / CSS:
 
-* Development of Front End website
+* Development of frontend website
 
 Bootstrap:
 
